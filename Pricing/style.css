@@ -3,7 +3,7 @@
 }
 
 .container {
-    max-width: 960px !important;
+    max-width: 960px;
 }
 
 .card-deck .card {
