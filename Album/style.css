@@ -1,0 +1,28 @@
+* {
+    line-height: 1.5;
+}
+
+.navbar-brand:hover {
+    color: aquamarine !important;
+}
+
+.example {
+    margin-bottom: 0 !important;
+    background-color: #fff !important;
+}
+
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+footer p {
+    margin-bottom: 0.25rem;
+}
+
+@media (min-width: 768px) {
+    .jumbotron {
+        padding-top: 6rem !important;
+        padding-bottom: 6rem !important;
+    }
+}
