@@ -1,0 +1,72 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+}
+
+/* Custom Carousel style */
+
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.carousel .carousel-item {
+    height: 50rem;
+}
+
+.carousel-caption {
+    bottom: 3rem;
+}
+
+/* Marketing section */
+
+.profile-img {
+    width: 140px;
+    height: 140px;
+}
+
+.marketing .col-lg-4 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.marketing h2 {
+    font-weight: 400;
+}
+
+.marketing .col-lg-4 p {
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+}
+
+/* Features */
+
+.divider {
+    margin: 5rem 0;
+}
+
+.feature-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -0.05rem;
+}
+
+/* Responsive CSS */
+
+@media (min-width: 40em) {
+    .feature-heading {
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 75em) {
+    .feature-heading {
+        margin-top: 4rem;
+    }
+}
+
+/* .carousel-inner::after {
+    display: block;
+    clear: both;
+    content: "";
+} */
